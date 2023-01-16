@@ -1,4 +1,4 @@
-package com.example.group_discussion_app
+package com.itclown.discuss.app
 
 import io.flutter.embedding.android.FlutterActivity
 

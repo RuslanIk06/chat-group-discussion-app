@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.group_discussion_app">
+    package="com.itclown.discuss.app">
    <application
         android:label="group_discussion_app"
         android:name="${applicationName}"
